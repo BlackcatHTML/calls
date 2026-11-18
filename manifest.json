@@ -1,0 +1,16 @@
+{
+  "name": "Calls - Central de Ligações",
+  "short_name": "Calls",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07080f",
+  "theme_color": "#07080f",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/10Gcw7GaHPgxjyOY2LI3nkFyJoVkp3W4a",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
